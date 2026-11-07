@@ -1,8 +1,8 @@
 # Hello, I am Pushpa Suryavanshi
 
-*College or field:* YOUR COLLEGE OR FIELD
+*College or field:* Production Support
 
-*City:* YOUR CITY
+*City:* Mumbai
 
 ## About me
 
